@@ -1,1 +1,1 @@
-# tugas-pertama
+# tugas-pertama pengantar deep learning
